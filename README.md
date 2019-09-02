@@ -9,7 +9,7 @@ The users should know how to run Python scripts in Blender. A good tutorial can 
 
 ### Steps:
 1.  `Open an empty Blender project. Remove the default cube.`
-2.  `Modify the data path and camera parameters as needed.
+2.  `Modify the data path and camera parameters as needed.`
 3.  `Run the python script in Blender.`
 4.  `Click the render or animation button and you should have something like this:`
 ![image](https://github.com/paulchhuang/4DViewerBlender/blob/master/output_NqUkoL.gif)
